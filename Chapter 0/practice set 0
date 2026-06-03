@@ -1,0 +1,10 @@
+  # Print you name
+
+print("My name is Pratiksha")
+  
+  # Print a quote
+print("Success doesn't come overnight")
+
+# print math
+print(10+5*2)
+        

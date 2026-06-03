@@ -1,0 +1,7 @@
+# Create a file named saumya_info.txt using "X" mode.
+
+file=open("saumya_info.txt", "x")
+
+file.write("Name: Saumya\nAge: 20\nCity: Mumbai")
+
+file.close()
