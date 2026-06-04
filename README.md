@@ -19,11 +19,11 @@ Throughout this journey, I focused on understanding programming fundamentals, wr
 - Input and Output Operations.
 - Operators
 - Expressions.
-- -Type Casting
+- Type Casting
 - Conditional Statements(if,elif,else)
 - Loops (For loop,while loop)
 - Iteration
-- -Nested Loops
+- Nested Loops
 - Loop Control Statements (break,continue and pass)
 - Function
 - Function Creation
